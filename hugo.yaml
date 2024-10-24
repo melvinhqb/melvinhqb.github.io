@@ -1,4 +1,4 @@
-baseURL: https://melvinhqb.github.io/melvinhqb/
+baseURL: https://example.org/
 languageCode: en-us
 title: MHQB
 theme: ["PaperMod"]
@@ -12,7 +12,7 @@ params:
     enabled: true
     title: "Melvin Huynh-Quan-Binh"
     subtitle: "Étudiant en informatique à CY Tech"
-    imageUrl: "/images/melvin_profil_picture.jpg"
+    imageUrl: "./images/melvin_profil_picture.jpg"
     imageTitle: "Photo de profil"
     imageWidth: 120
     imageHeight: 120
