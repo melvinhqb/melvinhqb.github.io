@@ -1,0 +1,32 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: MHQB
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "Melvin Huynh-Quan-Binh"
+    subtitle: "Étudiant en informatique à CY Tech"
+    imageUrl: "/images/melvin_profil_picture.jpg"
+    imageTitle: "Photo de profil"
+    imageWidth: 120
+    imageHeight: 120
+
+  socialIcons:
+    - name: "linkedin"
+      url: "https://linkedin.com/in/melvinhqb"
+    - name: "github"
+      url: "https://github.com/melvinhqb"
+    - name: "cv"
+      url: "./files/resume-melvin.pdf"
+
+menu:
+  main:
+    - name: "Projets"
+      url: "/projects"
+      weight: 5
