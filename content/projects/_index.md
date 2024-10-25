@@ -1,4 +1,4 @@
 ---
-title: "Projets"
+title: "Projects"
 layout: "projects"
 ---

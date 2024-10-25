@@ -45,11 +45,6 @@ languages:
   fr:
     languageName: ":fr:"
     weight: 2
-    menu:
-      main:
-        - name: Projets
-          url: /projects
-          weight: 5
     params:
       profileMode:
         subtitle: "Étudiant en informatique à CY Tech"
